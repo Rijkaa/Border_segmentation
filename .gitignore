@@ -1,2 +1,6 @@
 try.ipynb
 .vscode/
+tests/
+.DS_Store
+proceeded.ply
+images/.DS_Store
